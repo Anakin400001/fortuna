@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anakin400001/fortunastatic/css/main.981f7211.chunk.css",
+    "main.js": "/Anakin400001/fortunastatic/js/main.719c4621.chunk.js",
+    "main.js.map": "/Anakin400001/fortunastatic/js/main.719c4621.chunk.js.map",
+    "runtime-main.js": "/Anakin400001/fortunastatic/js/runtime-main.36feb388.js",
+    "runtime-main.js.map": "/Anakin400001/fortunastatic/js/runtime-main.36feb388.js.map",
+    "static/css/2.86df01db.chunk.css": "/Anakin400001/fortunastatic/css/2.86df01db.chunk.css",
+    "static/js/2.1be58915.chunk.js": "/Anakin400001/fortunastatic/js/2.1be58915.chunk.js",
+    "static/js/2.1be58915.chunk.js.map": "/Anakin400001/fortunastatic/js/2.1be58915.chunk.js.map",
+    "index.html": "/Anakin400001/fortunaindex.html",
+    "precache-manifest.7d0ae3dcbe9c8385962c121ee09cf59d.js": "/Anakin400001/fortunaprecache-manifest.7d0ae3dcbe9c8385962c121ee09cf59d.js",
+    "service-worker.js": "/Anakin400001/fortunaservice-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/Anakin400001/fortunastatic/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/Anakin400001/fortunastatic/css/main.981f7211.chunk.css.map",
+    "static/js/2.1be58915.chunk.js.LICENSE.txt": "/Anakin400001/fortunastatic/js/2.1be58915.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/Anakin400001/fortunastatic/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36feb388.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.1be58915.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.719c4621.chunk.js"
+  ]
+}
